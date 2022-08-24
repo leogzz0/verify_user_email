@@ -1,6 +1,6 @@
 # verify_user_email
-# Streaming Backend in C++ (basic)
-  https://github.com/leogzz0/TC1030_301_Leonardo_Gonzalez
+# verify email
+  [https://github.com/leogzz0/TC1030_301_Leonardo_Gonzalez](https://github.com/leogzz0/verify_user_email)
 
   # Description
   python program build with regex to valid user email.
