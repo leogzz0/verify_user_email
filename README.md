@@ -1,5 +1,4 @@
 # verify_user_email
-# verify email
   https://github.com/leogzz0/verify_user_email
 
   # Description
